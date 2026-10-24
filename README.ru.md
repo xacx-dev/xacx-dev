@@ -1,4 +1,4 @@
-![Михаил Нагорный — Python-разработчик и DevOps-инженер. Backend, инфраструктура и автоматизация.](assets/header.svg)
+![Михаил Нагорный — Python-разработчик и DevOps-инженер. Backend, инфраструктура и автоматизация.](assets/header.svg?v=2)
 
 [English](README.md) · [Русский](README.ru.md) · [Публичные репозитории](https://github.com/xacx-dev?tab=repositories&type=public)
 
