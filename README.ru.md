@@ -1,15 +1,17 @@
-![Михаил Нагорный — DevOps-инженер. Python, Linux-инфраструктура и автоматизация.](assets/header.svg)
+![Михаил Нагорный — Python-разработчик и DevOps-инженер. Backend, инфраструктура и автоматизация.](assets/header.svg)
 
 [English](README.md) · [Русский](README.ru.md) · [Публичные репозитории](https://github.com/xacx-dev?tab=repositories&type=public)
 
 # Привет, я Михаил
 
-**DevOps-инженер с опытом Python-разработки.** С февраля 2026 года занимаюсь Linux-инфраструктурой, автоматизацией развёртывания, CI/CD, мониторингом и эксплуатацией сервисов.
+**Python-разработчик и DevOps-инженер.** Создаю API, ботов и веб-приложения, а также работаю с инфраструктурой, на которой они запускаются.
 
-Опыт разработки помогает работать со всей системой: Python API, фоновыми задачами, базами данных, контейнерами, обратными прокси и Linux-службами, на которых работают приложения.
+Мой опыт объединяет сервисы на Django/FastAPI, фоновые задачи, базы данных и интеграции с администрированием Linux, контейнеризацией, CI/CD и мониторингом. В феврале 2026 года перешёл на отдельную позицию системного администратора / DevOps, продолжая опираться на опыт разработки ПО.
 
 ## Чем занимаюсь
 
+- **Python-разработка:** REST API на Django/DRF и FastAPI, Telegram-боты, бизнес-приложения, интеграции с БД, асинхронные сервисы и фоновые задачи.
+- **Веб-приложения и данные:** интерфейсы на Vue, сторонние API, браузерная автоматизация, обработка таблиц и потоки данных.
 - **Развёртывание и автоматизация:** окружения Docker и Compose, подготовка и обновление серверов через Ansible, GitHub Actions, скрипты релизов и процедуры отката.
 - **Эксплуатация Linux:** Ubuntu, Debian и Astra Linux; службы и таймеры systemd, SSH, резервные копии, ротация логов, проверки работоспособности и перенос сервисов между VPS.
 - **Мониторинг и диагностика:** агенты и прокси Zabbix, Grafana, мониторинг файловых систем и inode, journald, диагностика баз данных и сетевых соединений.
@@ -19,11 +21,11 @@
 
 | Область | Используемые инструменты |
 | :--- | :--- |
-| Инфраструктура и доставка | Linux · Docker · Docker Compose · Ansible · GitHub Actions · Git · Bash · PowerShell |
-| Мониторинг и сети | Zabbix · Grafana · systemd · Nginx · Caddy · HAProxy · WireGuard · Hyper-V |
 | Python backend | Django · Django REST Framework · aDRF · FastAPI · Pydantic · SQLAlchemy · Alembic · Tortoise ORM |
 | Данные и фоновые задачи | PostgreSQL · MySQL · SQLite · Redis · RabbitMQ · Celery · APScheduler |
 | Веб и интеграции | Vue 3 · TypeScript · JavaScript · Vite · HTML/CSS · aiogram · Telethon · Playwright |
+| Инфраструктура и доставка | Linux · Docker · Docker Compose · Ansible · GitHub Actions · Git · Bash · PowerShell |
+| Мониторинг и сети | Zabbix · Grafana · systemd · Nginx · Caddy · HAProxy · WireGuard · Hyper-V |
 | Качество и проверки | pytest · Ruff · Vitest · ESLint · проверка OpenAPI · Gitleaks |
 
 <details>
