@@ -1,4 +1,4 @@
-![Mikhail Nagorny — Python developer and DevOps engineer. Backend development, infrastructure and automation.](assets/header.svg?v=2)
+![Mikhail Nagorny — Python developer and DevOps engineer. Backend development, infrastructure and automation.](https://raw.githubusercontent.com/xacx-dev/xacx-dev/a8bf6e057664a28e03f2172106591e9c7ef9193a/assets/header.svg)
 
 [English](README.md) · [Русский](README.ru.md) · [Public repositories](https://github.com/xacx-dev?tab=repositories&type=public)
 
