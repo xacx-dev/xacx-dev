@@ -1,15 +1,17 @@
-![Mikhail Nagorny — DevOps engineer. Python backend, Linux infrastructure and automation.](assets/header.svg)
+![Mikhail Nagorny — Python developer and DevOps engineer. Backend development, infrastructure and automation.](assets/header.svg)
 
 [English](README.md) · [Русский](README.ru.md) · [Public repositories](https://github.com/xacx-dev?tab=repositories&type=public)
 
 # Hi, I'm Mikhail
 
-**DevOps engineer with a Python backend development background.** Since February 2026, my work has focused on Linux infrastructure, deployment automation, CI/CD, monitoring and service operations.
+**Python developer & DevOps engineer.** I build APIs, bots and web applications, and work on the infrastructure that runs them.
 
-My development experience helps me work across the application and its environment: Python APIs, background workers, databases, containers, reverse proxies and the Linux services that keep them running.
+My experience spans Django/FastAPI services, background workers, databases and integrations, alongside Linux administration, containerization, CI/CD and monitoring. I moved into a dedicated System Administrator / DevOps role in February 2026, building on my software development work.
 
 ## What I work on
 
+- **Python development:** REST APIs with Django/DRF and FastAPI, Telegram bots, business applications, database integrations, async services and background jobs.
+- **Web applications & data:** Vue interfaces, third-party APIs, browser automation, spreadsheet processing and data pipelines.
 - **Deployment & automation:** Docker and Compose environments, Ansible server provisioning and updates, GitHub Actions workflows, scripted releases and rollback procedures.
 - **Linux operations:** Ubuntu, Debian and Astra Linux; systemd services and timers, SSH, backups, log rotation, health checks and service migration between VPS hosts.
 - **Monitoring & troubleshooting:** Zabbix agents and proxies, Grafana, filesystem and inode monitoring, journald, database and network diagnostics.
@@ -19,11 +21,11 @@ My development experience helps me work across the application and its environme
 
 | Area | Tools I use |
 | :--- | :--- |
-| Infrastructure & delivery | Linux · Docker · Docker Compose · Ansible · GitHub Actions · Git · Bash · PowerShell |
-| Monitoring & networking | Zabbix · Grafana · systemd · Nginx · Caddy · HAProxy · WireGuard · Hyper-V |
 | Python backend | Django · Django REST Framework · aDRF · FastAPI · Pydantic · SQLAlchemy · Alembic · Tortoise ORM |
 | Data & background jobs | PostgreSQL · MySQL · SQLite · Redis · RabbitMQ · Celery · APScheduler |
 | Web & integrations | Vue 3 · TypeScript · JavaScript · Vite · HTML/CSS · aiogram · Telethon · Playwright |
+| Infrastructure & delivery | Linux · Docker · Docker Compose · Ansible · GitHub Actions · Git · Bash · PowerShell |
+| Monitoring & networking | Zabbix · Grafana · systemd · Nginx · Caddy · HAProxy · WireGuard · Hyper-V |
 | Quality & checks | pytest · Ruff · Vitest · ESLint · OpenAPI validation · Gitleaks |
 
 <details>
